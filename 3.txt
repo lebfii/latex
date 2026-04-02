@@ -1,0 +1,48 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{graphicx}
+\usepackage{geometry}
+\geometry{a4paper,total={180mm,250mm},left=20mm,top=30mm,}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\thispagestyle{empty}
+\begin{document}
+\begin{tikzpicture}[remember picture,overlay]
+\draw[line width = 2pt] ($(current page.north west) + (1in,-0.5in)$)
+rectangle ($(current page.south east) + (-0.5in,0.5in)$);
+\end{tikzpicture}
+\begin{center}
+\textbf{\large{VISVESVARAYA TECHNOLOGICAL
+
+UNIVERSITY}}\\ Jnana Sangama,Belgaum-590018\\
+\vspace{0.2in}
+\includegraphics[scale=0.3]{vtulogo.jpg}\\
+A PROJECT REPORT\\ON\\
+\textbf{&quot;TECHNICAL WRITING WITH LATEX&quot;}\\
+\textit{Submitted in partial fulfilment of the requirements for the
+award of the degree of}\\
+\vspace{0.1in}
+\textbf{BACHELOR OF ENGINEERING}\\
+\textbf{IN}\\
+\textbf{INFORMATION SCIENCE AND
+ENGINEERING}\\ Submitted by\\
+\vspace{0.5cm}
+\textbf{Student 1 \hspace{8cm} USN1\\
+Student 22 \hspace{8cm} USN2\\
+Student 3 \hspace{8cm} USN3\\
+Student 4 \hspace{8cm} USN4\\}
+\vspace{1cm}
+\textbf{Under the Guidance of}\\
+\vspace{0.2cm}
+Prof. Guide Name \\
+Asst Professor, Department of ISE, CMRIT.\\
+\vspace{1cm}
+\includegraphics[scale=0.3]{CMRIT A++ Logo-01.png}\\
+\vspace{1cm}
+DEPARTMENT OF INFORMATION SCIENCE AND
+ENGINEERING\\ \vspace{0.2cm}
+\textbf{\large{CMR COLLEGE OF ENGINEERING}}\\
+\vspace{0.2cm}
+AECS LAYOUT, BENGALURU - 560037\\
+2024-25\\
+\end{center}
+\end{document}

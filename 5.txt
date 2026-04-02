@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{multirow}
+\begin{document}
+\title{Lab 5}
+\maketitle
+% Please add the following required packages to your document
+
+preamble:
+% \usepackage{multirow}
+\begin{table}[]
+\begin{tabular}{|l|l|l|lll|}
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{S. No}} &amp;
+\multicolumn{1}{c|}{\multirow{2}{*}{USN}} &amp;
+\multicolumn{1}{c|}{\multirow{2}{*}{Student Name}} &amp;
+\multicolumn{3}{c|}{Marks} \\ \cline{4-6}
+\multicolumn{1}{|c|}{}&amp;
+\multicolumn{1}{c|}{}&amp;
+\multicolumn{1}{c|}{} &amp;
+\multicolumn{1}{c|}{Subject 1} &amp;
+\multicolumn{1}{c|}{Subject 2} &amp;
+\multicolumn{1}{c|}{Subject 3} \\
+\hline 1 &amp; 4XX22XX001 &amp; Name 1 &amp;
+\multicolumn{1}{l|}{89} &amp;
+\multicolumn{1}{l|}{60} &amp; 90 \\
+\hline 2 &amp; 4XX22XX002 &amp; Name 2 &amp;
+\multicolumn{1}{l|}{78} &amp;
+\multicolumn{1}{l|}{45} &amp; 98 \\
+\hline 3 &amp; 4XX22XX003 &amp; Name 3 &amp;
+\multicolumn{1}{l|}{67}&amp;
+\multicolumn{1}{l|}{55} &amp; 59 \\
+\hline
+\end{tabular}
+\end{table}
+\end{document}

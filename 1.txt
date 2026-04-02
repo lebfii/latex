@@ -1,0 +1,20 @@
+\documentclass{article} %shows style of document
+\usepackage{lipsum} %for random text generation
+\usepackage{fancyhdr} %for header and footer
+\begin{document} %document content start
+\pagestyle{fancy} %overwriting default page style
+\title{Lab 1} %adding title to document
+\fancyhf{}%clear default header and footer
+\maketitle %adds the title, header, footer to page
+First document. This is a simple example.
+\section{Section One}% creates one sub section
+Section one data goes here.
+\lipsum[1] %fills the content with randomly generated text.
+\fancyfoot[L]{CMRIT, Bangalore} %adds footer content at left side
+\fancyfoot[R]{\thepage} %adds the pagenumber at the right side
+\newpage %creates a new page
+
+\section{Section Two}
+Section Two data goes here.
+\lipsum[2]
+\end{document}

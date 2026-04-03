@@ -11,13 +11,11 @@
 rectangle ($(current page.south east) + (-0.5in,0.5in)$);
 \end{tikzpicture}
 \begin{center}
-\textbf{\large{VISVESVARAYA TECHNOLOGICAL
-
-UNIVERSITY}}\\ Jnana Sangama,Belgaum-590018\\
+\textbf{\large{VISVESVARAYA TECHNOLOGICAL UNIVERSITY}}\\ Jnana Sangama,Belgaum-590018\\
 \vspace{0.2in}
 \includegraphics[scale=0.3]{vtulogo.jpg}\\
 A PROJECT REPORT\\ON\\
-\textbf{&quot;TECHNICAL WRITING WITH LATEX&quot;}\\
+\textbf{"TECHNICAL WRITING WITH LATEX"}\\
 \textit{Submitted in partial fulfilment of the requirements for the
 award of the degree of}\\
 \vspace{0.1in}
@@ -36,7 +34,7 @@ Student 4 \hspace{8cm} USN4\\}
 Prof. Guide Name \\
 Asst Professor, Department of ISE, CMRIT.\\
 \vspace{1cm}
-\includegraphics[scale=0.3]{CMRIT A++ Logo-01.png}\\
+\includegraphics[scale=0.3]{cmrit_logo.png}\\
 \vspace{1cm}
 DEPARTMENT OF INFORMATION SCIENCE AND
 ENGINEERING\\ \vspace{0.2cm}

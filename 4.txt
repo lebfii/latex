@@ -13,9 +13,8 @@ firstpage=true,
 opacity=0.1,
 color=black,
 contents={\begin{tikzpicture}[remember picture,overlay]
-
 \node at ([yshift=10pt,xshift=18pt]current page.center)
-{\includegraphics[width=10cm]{CMRIT A++ Logo-01.png}};
+{\includegraphics[width=10cm]{cmrit_logo.png}};
 \end{tikzpicture}}
 }
 \begin{document}
@@ -28,18 +27,18 @@ contents={\begin{tikzpicture}[remember picture,overlay]
 \scriptsize{AECS LAYOUT, BENGALURU-560037} \\
 \normalsize{\textbf{Department of Information Science and Engineering }}\\
 \vspace{0.2in}
-\includegraphics[scale=0.3]{CMRIT A++ Logo-01.png}\\
+\includegraphics[scale=0.3]{vtulogo.jpg}\\
 \vspace{0.2in}
 \large{\textbf{CERTIFICATE}}\\
 \vspace{0.01in}
 \end{center}
-Certified that the project work entitled \textbf{&quot;XXXXXXXXXXX&quot;} is a bone
+Certified that the project work entitled \textbf{"XXXXXXXXXXX"} is a bone
 fide work carried out by\\
 \begin{tabular}{l l l}
-\textbf{xxxxxxxxx} &amp; \hspace{3in} \textbf{1CR21ISxxx}\\
-\textbf{xxxxxxxxx} &amp; \hspace{3in} \textbf{1CR21ISxxx}\\
-\textbf{xxxxxxxxx} &amp; \hspace{3in} \textbf{1CR21ISxxx}\\
-\textbf{xxxxxxxxx} &amp; \hspace{3in} \textbf{1CR21ISxxx}\\
+\textbf{xxxxxxxxx} &\hspace{3in} \textbf{1CR21ISxxx}\\
+\textbf{xxxxxxxxx} &\hspace{3in} \textbf{1CR21ISxxx}\\
+\textbf{xxxxxxxxx} &\hspace{3in} \textbf{1CR21ISxxx}\\
+\textbf{xxxxxxxxx} &\hspace{3in} \textbf{1CR21ISxxx}\\
 \end{tabular}\\
 in partial fulfillment for the award of Bachelor of Engineering in Information
 
@@ -53,15 +52,15 @@ project work prescribed for the said Degree.\\
 \vspace{0.01in}
 \begin{center}
 \begin{tabular}{c c c}
-\textbf{Name of Guide} &amp; \hspace{3.5cm} \textbf{Name of HOD}\\
-Guide &amp; \hspace{3.5cm} Head of the Department\\
+\textbf{Name of Guide} & \hspace{3.5cm} \textbf{Name of HOD}\\
+Guide & \hspace{3.5cm} Head of the Department\\
 \end{tabular}\\
 \end{center}
 NAME:\\
 \vspace{1cm}
 USN:\hspace{1cm} \begin{tabular}{|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|ll|}
 \hline
-&amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp;\\
+& & & & & & & & & & & & & & & & \\
 \hline
 \end{tabular}
 \end{document}
